@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form input {
+  display: flex;
+  justify-content: center;
+  width: 50vb;
+  margin: 0;
+}
+
+.form textarea {
+  display: flex;
+  justify-content: center;
+  width: 50vb;
+  margin: 0;
+}
+
+.form button {
+  background-color: rgb(2, 141, 145);
+  width: 50vb;
+}

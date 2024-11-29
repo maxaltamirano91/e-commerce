@@ -1,0 +1,32 @@
+.navBar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: medium;
+  padding: 10px;
+}
+
+.navBar p {
+  margin: 5px;
+  text-decoration: none;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+}
+
+.input button {
+  margin: 5px;
+}
+
+.carrito {
+  background-color: rgb(66, 66, 66);
+  color: rgb(173, 173, 173);
+}

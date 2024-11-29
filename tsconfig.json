@@ -1,0 +1,25 @@
+// {
+//   "files": [],
+//   "references": [
+//     { "path": "./tsconfig.app.json" },
+//     { "path": "./tsconfig.node.json" }
+//   ]
+// }
+
+// {
+//   "compilerOptions": {
+//     "jsx": "react",
+//     "module": "ESNext",
+//     "moduleResolution": "node",
+//     "strict": true,
+//     "esModuleInterop": true
+//   }
+// }
+
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
